@@ -7,6 +7,6 @@ Apollo Iot consists in a set of boards designed with several key aspects. They m
  * be power efficient
  * provide a standard set of interconnects
 ### Resources
- * [Specification](documents/specification.md)
- * [Boards](documents/boards.md)
- * [Roadmap](documents/roadmap.md)
+ * [Specification](documents/SPECIFICATION.md)
+ * [Boards](documents/BOARDS.md)
+ * [Roadmap](documents/ROADMAP.md)
